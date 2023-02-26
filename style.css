@@ -2,13 +2,12 @@
 
 iframe{
     background-color: rgba(255, 192, 203, 0.554);
-    height: 55vh;
+    height: 18.3em;
     position: absolute;
-    left: 2.399vh;
-    transform: translate(0em, 9.1vh);
-    width: 31.3vh;
+    left: 0.84em;
+    transform: translate(0em, 3em);
+    width: 10.39em;
     border: none;
-
 }
 
 
@@ -17,11 +16,11 @@ iframe{
 }
 
 .cell{
-    width: 32ch;
-    height: 60ch;
+    width: 15em;
+    height: 26em;
     background-image: url(imagens/frame-iphone.png);
     position: absolute;
-    background-size: 36vh;
+    background-size: 12em;
     left: 50%;
     background-repeat: no-repeat;
     transform: translate(-50%, 15%);
@@ -35,9 +34,9 @@ iframe{
 
 
 .botao{
-    margin-top: 2vh;
-    width: 12vh;
-    height: 12vh;
+    margin-top: 32%;
+    width: 8ch;
+    height: 8ch;
     border-radius: 100%;
     border: none;
 }
